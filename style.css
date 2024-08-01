@@ -1,0 +1,12 @@
+.text-green {
+  background-color: black;
+  color: green;
+}
+.dark {
+  background-color: black;
+  color: white;
+}
+.demo2 {
+  background-color: pink;
+  font-weight: bold;
+}
